@@ -1,5 +1,5 @@
 #Quantum Circuits with Qiskit : Controlled-NOT Gate
-#An entagled state is a mixed state(its statistics exhibit both classical and quantum form of correlation between probabilistic distribution and quantum wavefunctions)
+#An entangled state is a mixed state(its statistics exhibit both classical and quantum form of correlation between probabilistic distribution and quantum wavefunctions)
 
 from qiskit import QuantumCircuit
 qc = QuantumCircuit(3, 3)
