@@ -13,7 +13,7 @@
 #the predictions and the labels.
 #An optimizer is used to update both the quantum and classical
 #portions of the hybrid model.
-#OUTCOME: Use the trained hybrid ,odel to classify new quantum datapoints
+#OUTCOME: Use the trained hybrid model to classify new quantum datapoints
 
 #STEP 1: Generate Quantum Data using Cirq
 import cirq, random, sympy
